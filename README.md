@@ -176,7 +176,7 @@ ISC
 
 ## Author
 
-Kowsik Gelli
+bilal kilnaz
 
 ## Contributing
 
